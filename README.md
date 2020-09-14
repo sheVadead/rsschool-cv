@@ -1,1 +1,1 @@
-sheVadead.github.io
+[rsschool-cv](https://shevadead.github.io/rsschool-cv/cv)
