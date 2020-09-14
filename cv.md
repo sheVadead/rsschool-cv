@@ -21,15 +21,17 @@
 
 ### Code Examples
 
-[FilmApp](https://goofy-yalow-eb4098.netlify.app/)
+[FilmApp](https://goofy-yalow-eb4098.netlify.app/):
+
 My first app in which you should guess the frame from film.
 
- ### Skills:
+
+### Skills:
 
  HTML, CSS, JS basics.
  
 
- ### Experience:
+### Experience:
 
  I have no experience on programming , self-educated.
 
